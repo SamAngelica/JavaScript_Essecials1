@@ -1,7 +1,4 @@
  // -> Our task will be to create a list of contacts. Initially, the list will be quite simple: we will only write three people to it using the data shown in the table below.
-var name;
-var email;
-var phone;
 
 const Contact1 = ("Maxwell Wright");
 const Contact2 = ("Raja Villarreal");
